@@ -9,14 +9,9 @@ To download, go to the latest release and click 'Source code (zip)': https://git
 * Cheat: Enables Phanon Spy in the Player Console
 * Cheat: A script called 'temetvince.Cheat.AddSats' that adds sats to all connected sectors which don't already have satellites
 * Satellite Monitoring: Joubarbe's Satellite Monitoring script now considers player owned ships as satellites
-* Phanon+ fixes for Star Wars LU and Galaxy in Chaos.
-    * Phanon+ Salvagers no longer claim ships with full hull
-    * Phanon+ no longer conflicts with SWLU/GiC game initialization texts
+* Phanon investors step in to keep Phanon corps afloat if their balance goes negative
 * Debug scripts. See Development Features below
 * LU Stock Exchange pageid fix (theoretically)
-* Phanon:
-    * Now build their HQs closer to sector center
-    * Fixed a bug in create station when passed a null StationType
 * An optional production speed increase to Sepa's SWLU Mothership Mod
 * An optional Graphics Improvement mod utilizing ReShade is included
 * An optional font change is included, disabled by default. It is Fantasque Sans Mono, you can find the original here:
